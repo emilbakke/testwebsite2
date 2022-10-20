@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="992.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-461.000000 -540.000000 992.000000 990.000000" height="990.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 145.442551,-188.075775 102.136826,-186.432098 87.153687,-200.319443"
+              class="id_metroxpress id_kendte.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 182.425385,-185.935654 191.383743,-125.607529 174.260483,-102.512039"
+              class="id_metroxpress id_kristeligtdagblad" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 141.026443,-193.744293 99.599319,-207.227570 90.284706,-225.531021"
+              class="id_metroxpress id_landbrugsavisen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 164.337723,-187.526001 148.550110,-156.714859 133.017197,-151.707031"
+              class="id_metroxpress id_lastbilnyhederne.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 178.079666,-194.124176 192.802185,-152.597382 183.867447,-133.847610"
+              class="id_metroxpress id_lokalavisen.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 175.606140,-137.495651 101.675591,-14.736364 36.112316,1.539883"
+              class="id_metroxpress id_berlingske" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 194.704941,-126.921227 133.560974,40.347878 57.423279,75.722923"
+              class="id_metroxpress id_billedbladet" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 192.073471,-156.263611 170.995865,-36.955288 124.200562,-4.211715"
+              class="id_metroxpress id_bt" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 181.423019,-109.098167 73.621559,64.982635 -20.339193,87.075752"
+              class="id_metroxpress id_børsen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 109.634666,-139.268280 -60.594120,-118.125206 -124.384743,-167.820435"
+              class="id_metroxpress id_dagbladetinformation"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 133.424606,-136.495697 -5.278141,-75.508827 -71.841347,-101.414108"
+              class="id_metroxpress id_drnyheder" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 148.333221,-160.787506 68.431091,-113.875450 26.159697,-124.872131"
+              class="id_metroxpress id_erhverv+" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 146.683685,-131.578186 20.493248,-43.326401 -50.987488,-55.972618"
+              class="id_metroxpress id_finans" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 122.762901,-152.566696 -7.825899,-131.678879 -58.318111,-168.245865"
+              class="id_metroxpress id_gaffa" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 161.104675,-123.785477 44.856705,-2.213139 -34.416729,-0.438355"
+              class="id_metroxpress id_jyllands-posten" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 199.927612,-177.744553 222.852661,-78.876434 197.538300,-38.278717"
+              class="id_metroxpress id_mandagmorgen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 244.929901,-288.658905 244.929901,-117.458916 159.329895,-203.058914"
+              class="id_metroxpress" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 172.948044,-180.213959 159.107864,-125.519279 136.262909,-111.901123"
+              class="id_metroxpress id_politiken" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 132.803879,-193.715607 78.999863,-219.489655 69.656548,-246.015686"
+              class="id_metroxpress id_soundvenue" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 159.852722,-180.370575 126.604446,-145.553833 103.916107,-145.031006"
+              class="id_metroxpress id_søndagsavisen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 159.329895,-203.058914 C 225.108505,-160.841675 260.450562,1.152100 218.233322,66.930710"
+              class="id_metroxpress id_tv2" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -114.250511,-9.455669 -30.925215,42.111572 -20.339193,87.075752"
+              class="id_arbejderen id_børsen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -122.230789,8.157260 -77.295319,74.173470 -84.322227,111.157364"
+              class="id_arbejderen id_cleantechwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -138.612091,-1.278612 -104.094749,26.011839 -101.685783,46.614437"
+              class="id_arbejderen id_computerworld" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -186.038864,-39.625797 -165.140900,-140.996262 -124.384743,-167.820435"
+              class="id_arbejderen id_dagbladetinformation" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -118.834106,17.439251 -82.726570,102.473480 -99.035469,142.854065"
+              class="id_arbejderen id_dagens.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -111.997429,5.533190 -47.775780,82.963348 -52.178612,130.180618"
+              class="id_arbejderen id_danwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -139.885620,11.501410 -126.448631,56.051594 -136.819687,75.380653"
+              class="id_arbejderen id_denkorteavis" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -172.521454,-11.070725 -174.179977,-49.332481 -161.978897,-62.639240"
+              class="id_arbejderen id_detailwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -133.245972,5.898743 -101.445473,52.004414 -106.213860,77.973137"
+              class="id_arbejderen id_dknyt" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -162.248917,-36.853210 -109.824913,-98.379883 -71.841347,-101.414108"
+              class="id_arbejderen id_drnyheder" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -180.327606,-6.180967 -201.029984,-48.817310 -193.718674,-69.930222"
+              class="id_arbejderen id_effektivtlandbrug" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -154.730865,-18.396473 -118.714905,-40.960983 -99.188080,-36.477165"
+              class="id_arbejderen id_ejendomswatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -146.451126,15.625035 -149.047806,56.512417 -163.542480,69.275986"
+              class="id_arbejderen id_ekstrabladet" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -131.114746,13.289382 -107.203346,73.677856 -119.362373,101.777817"
+              class="id_arbejderen id_energiwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -147.340317,-61.145027 -36.115681,-136.746506 26.159697,-124.872131"
+              class="id_arbejderen id_erhverv+" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -173.775925,-32.351528 -145.394974,-104.416206 -111.913094,-118.977448"
+              class="id_arbejderen id_erhvervsavisen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -148.989838,-31.935684 -84.053520,-66.197464 -50.987488,-55.972618"
+              class="id_arbejderen id_finans" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -162.688400,-25.062046 -128.610382,-69.561211 -102.417992,-73.034927"
+              class="id_arbejderen id_finanswatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -183.838242,-24.558571 -182.240189,-100.027283 -156.551270,-124.650833"
+              class="id_arbejderen id_folketsavis" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -159.214691,1.130352 C -173.239288,-20.030346 -162.535141,-72.808273 -141.374435,-86.832863"
+              class="id_arbejderen id_footy" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 57.172668,39.771568 31.415667,128.709625 -6.816018,149.769974"
+              class="id_berlingske id_mediawatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C -3.034989,40.523376 -120.231201,40.277657 -159.214691,1.130352"
+              class="id_berlingske id_arbejderen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C -27.360004,-26.428867 -80.615356,-163.590454 -52.646606,-227.062775"
+              class="id_berlingske id_b.t." stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 52.579647,-17.228086 105.432594,-20.679045 124.200562,-4.211715"
+              class="id_berlingske id_bt" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 41.929192,29.937359 8.058284,81.258873 -20.339193,87.075752"
+              class="id_berlingske id_børsen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C -29.859161,-0.232773 -126.157394,-101.848953 -124.384743,-167.820435"
+              class="id_berlingske id_dagbladetinformation" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C -6.069214,2.539818 -70.841415,-59.232578 -71.841347,-101.414108"
+              class="id_berlingske id_drnyheder" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 8.839388,-21.751997 2.867817,-97.599205 26.159697,-124.872131"
+              class="id_berlingske id_erhverv+" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 7.189854,7.457344 -45.070030,-27.050154 -50.987488,-55.972618"
+              class="id_berlingske id_finans" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 21.610859,15.250046 -20.706566,14.063103 -34.416729,-0.438355"
+              class="id_berlingske id_jyllands-posten" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 36.112316,1.539883 C 33.454231,-41.178436 93.544586,-109.243042 136.262909,-111.901123"
+              class="id_berlingske id_politiken" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.233322,66.930710 C 185.198288,71.508774 128.778625,28.823324 124.200562,-4.211715"
+              class="id_tv2 id_bt" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 218.233322,66.930710 C 212.511353,44.331146 237.827774,1.848866 260.427338,-3.873093"
+              class="id_tv2 id_seoghør" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C -89.628380,30.709530 -109.012833,-157.773590 -52.646606,-227.062775"
+              class="id_børsen id_b.t." stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C -26.156067,58.678272 7.714838,7.356757 36.112316,1.539883"
+              class="id_børsen id_berlingske" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C -7.057264,69.252686 39.600220,62.440998 57.423279,75.722923"
+              class="id_børsen id_billedbladet" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C 17.045921,75.180923 90.965836,113.416351 102.860664,150.801468"
+              class="id_børsen id_bold.dk" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C -9.688738,39.910301 77.035110,-14.862170 124.200562,-4.211715"
+              class="id_børsen id_bt" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C 14.860807,51.875751 14.860807,122.275757 -20.339193,87.075752"
+              class="id_børsen" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.339193,87.075752 C -28.319477,104.688683 -66.709297,119.137650 -84.322227,111.157364"
+              class="id_børsen id_cleantechwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 44.260918,-13.412495 -61.847385,-147.123123 -52.646606,-227.062775"
+              class="id_bt id_b.t." stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 107.733238,14.556253 54.880283,18.007212 36.112316,1.539883"
+              class="id_bt id_berlingske" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 150.935211,31.058899 138.131287,124.066811 102.860664,150.801468"
+              class="id_bt id_bold.dk" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 113.550110,42.953732 26.826254,97.726204 -20.339193,87.075752"
+              class="id_bt id_børsen" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 80.460312,-8.735626 21.635784,-81.131882 26.159697,-124.872131"
+              class="id_bt id_erhverv+" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 93.231766,28.266418 -1.938596,30.530434 -34.416729,-0.438355"
+              class="id_bt id_jyllands-posten" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 132.054703,-25.692661 176.057358,-46.132866 197.538300,-38.278717"
+              class="id_bt id_mandagmorgen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 105.075150,-28.162066 112.312553,-92.775711 136.262909,-111.901123"
+              class="id_bt id_politiken" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 124.200562,-4.211715 C 157.235596,-8.789782 213.655258,33.895672 218.233322,66.930710"
+              class="id_bt id_tv2" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 150.630493,-57.268959 C 112.215698,-45.895439 37.533222,-86.457336 26.159697,-124.872131"
+              class="id_lokalavisenegedal id_erhverv+" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 150.630493,-57.268959 C 141.962143,-79.232079 161.904327,-125.179276 183.867447,-133.847610"
+              class="id_lokalavisenegedal id_lokalavisen.dk"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 150.630493,-57.268959 C 163.810104,-62.852470 191.954788,-51.458328 197.538300,-38.278717"
+              class="id_lokalavisenegedal id_mandagmorgen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 150.630493,-57.268959 C 188.990997,-45.949589 229.552689,28.570210 218.233322,66.930710"
+              class="id_lokalavisenegedal id_tv2" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 56.675625,-16.182102 -92.662399,34.136742 -159.214691,1.130352"
+              class="id_folkebladetlemvig id_arbejderen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 32.350616,-83.134346 -53.046562,-169.731369 -52.646606,-227.062775"
+              class="id_folkebladetlemvig id_b.t." stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 95.822937,-55.165592 63.681110,-4.601032 36.112316,1.539883"
+              class="id_folkebladetlemvig id_berlingske" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 139.024918,-38.662949 146.932114,101.458572 102.860664,150.801468"
+              class="id_folkebladetlemvig id_bold.dk" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 112.290260,-73.933563 133.001389,-26.819960 124.200562,-4.211715"
+              class="id_folkebladetlemvig id_bt" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 101.639801,-26.768116 35.627083,75.117966 -20.339193,87.075752"
+              class="id_folkebladetlemvig id_børsen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 29.851456,-56.938251 -98.588608,-107.989868 -124.384743,-167.820435"
+              class="id_folkebladetlemvig id_dagbladetinformation"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 53.641396,-54.165661 -43.272614,-65.373489 -71.841347,-101.414108"
+              class="id_folkebladetlemvig id_drnyheder" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 68.550003,-78.457481 30.436611,-103.740120 26.159697,-124.872131"
+              class="id_folkebladetlemvig id_erhverv+" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 66.900467,-49.248135 -17.501234,-33.191074 -50.987488,-55.972618"
+              class="id_folkebladetlemvig id_finans" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 81.321472,-41.455437 6.862226,7.922186 -34.416729,-0.438355"
+              class="id_folkebladetlemvig id_jyllands-posten"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 102.642181,-103.605614 153.389252,-115.472206 174.260483,-102.512039"
+              class="id_folkebladetlemvig id_kristeligtdagblad"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 120.144409,-95.414513 184.858170,-68.741112 197.538300,-38.278717"
+              class="id_folkebladetlemvig id_mandagmorgen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 79.546684,-120.728867 121.335411,-192.923584 159.329895,-203.058914"
+              class="id_folkebladetlemvig id_metroxpress" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 93.164848,-97.883911 121.113388,-115.383957 136.262909,-111.901123"
+              class="id_folkebladetlemvig id_politiken" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 139.603348,-101.111191 242.050537,-53.794418 260.427338,-3.873093"
+              class="id_folkebladetlemvig id_seoghør" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 80.069511,-98.040527 88.609970,-135.418503 103.916107,-145.031006"
+              class="id_folkebladetlemvig id_søndagsavisen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 145.325287,-78.511627 222.456085,11.287430 218.233322,66.930710"
+              class="id_folkebladetlemvig id_tv2" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 143.506805,-62.695084 194.185043,48.101067 174.145737,101.925865"
+              class="id_folkebladetlemvig id_dagbladetholstebrostruer"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 182.482025,-175.534393 182.482025,10.065613 89.682014,-82.734390"
+              class="id_folkebladetlemvig" stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 107.839523,-98.583160 158.848938,-95.120026 174.697708,-76.962517"
+              class="id_folkebladetlemvig id_frederiksborgamtsavis"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 112.429153,-111.149422 189.172409,-119.651245 217.587433,-96.904106"
+              class="id_folkebladetlemvig id_fyensstiftstidende"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 89.682014,-82.734390 C 125.581009,-61.334709 147.329987,24.613281 125.930305,60.512276"
+              class="id_folkebladetlemvig id_horsensfolkeblad"
+              stroke-opacity="1.0" stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.502151,97.533302 C 90.346985,50.363670 150.368668,-31.123547 197.538300,-38.278717"
+              class="id_lokalavisenfredensborg id_mandagmorgen"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.502151,97.533302 C 87.085854,128.844269 24.494951,160.186264 -6.816018,149.769974"
+              class="id_lokalavisenfredensborg id_mediawatch"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.502151,97.533302 C 96.692017,120.955048 60.344200,154.872452 36.922459,154.062317"
+              class="id_lokalavisenfredensborg id_medwatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.502151,97.533302 C 49.749256,25.049311 86.845901,-155.306030 159.329895,-203.058914"
+              class="id_lokalavisenfredensborg id_metroxpress"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -67.366806,43.021500 -1.643005,-4.520664 36.112316,1.539883"
+              class="id_lokalavisenhørsholm id_berlingske" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -48.268005,53.595917 30.242371,50.563576 57.423279,75.722923"
+              class="id_lokalavisenhørsholm id_billedbladet"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -121.075363,48.523117 -144.166794,-71.329445 -111.913094,-118.977448"
+              class="id_lokalavisenhørsholm id_erhvervsavisen"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -96.289268,48.938961 -82.825348,-33.110699 -50.987488,-55.972618"
+              class="id_lokalavisenhørsholm id_finans" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -109.987831,55.812599 -127.382217,-36.474449 -102.417992,-73.034927"
+              class="id_lokalavisenhørsholm id_finanswatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -46.306458,81.253189 -6.339655,122.649078 -6.816018,149.769974"
+              class="id_lokalavisenhørsholm id_mediawatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -73.427353,80.776825 C -36.700291,73.363960 29.509594,117.335251 36.922459,154.062317"
+              class="id_lokalavisenhørsholm id_medwatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -85.686195,-189.339661 4.640471,-163.570679 26.159697,-124.872131"
+              class="id_dagbladetinformation id_erhverv+" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -112.121811,-160.546158 -104.638824,-131.240372 -111.913094,-118.977448"
+              class="id_dagbladetinformation id_erhvervsavisen"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -87.335724,-160.130310 -43.297375,-93.021629 -50.987488,-55.972618"
+              class="id_dagbladetinformation id_finans" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -101.034294,-153.256683 -87.854240,-96.385376 -102.417992,-73.034927"
+              class="id_dagbladetinformation id_finanswatch"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -122.184135,-152.753204 -141.484039,-126.851456 -156.551270,-124.650833"
+              class="id_dagbladetinformation id_folketsavis"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -111.585167,-148.224991 -121.778984,-99.632439 -141.374435,-86.832863"
+              class="id_dagbladetinformation id_footy" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -105.819885,-174.387054 -68.122688,-156.389679 -61.556080,-137.824829"
+              class="id_dagbladetinformation id_fødevarewatch"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -111.256500,-181.118851 -71.616524,-181.374115 -58.318111,-168.245865"
+              class="id_dagbladetinformation id_gaffa" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -114.384262,-171.622437 -93.680542,-162.324722 -89.878548,-152.324234"
+              class="id_dagbladetinformation id_golfavisen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.384743,-167.820435 C -103.389343,-143.106659 -108.966919,-74.542892 -133.680695,-53.547501"
+              class="id_dagbladetinformation id_her&amp;nu" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.378460,-220.820389 C 30.124968,-201.063843 -32.890068,-204.809280 -52.646606,-227.062775"
+              class="id_jydskevestkysten id_b.t." stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.378460,-220.820389 C 77.321037,-238.658386 141.491898,-228.001495 159.329895,-203.058914"
+              class="id_jydskevestkysten id_metroxpress" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.378460,-220.820389 C 45.719868,-214.551208 26.328228,-215.135345 20.059055,-221.793930"
+              class="id_jydskevestkysten id_mobilitywatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -83.387589,-42.117264 -94.325516,-178.091904 -52.646606,-227.062775"
+              class="id_jyllands-posten id_b.t." stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -19.915272,-14.148518 22.402153,-12.961575 36.112316,1.539883"
+              class="id_jyllands-posten id_berlingske" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -0.816472,-3.574102 54.287529,42.122665 57.423279,75.722923"
+              class="id_jyllands-posten id_billedbladet" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C 23.286713,2.354130 105.653145,93.098022 102.860664,150.801468"
+              class="id_jyllands-posten id_bold.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -3.447940,-32.916489 91.722427,-35.180504 124.200562,-4.211715"
+              class="id_jyllands-posten id_bt" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -14.098398,14.248960 -5.651878,66.757423 -20.339193,87.075752"
+              class="id_jyllands-posten id_børsen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -22.078684,31.861889 -52.021980,98.819321 -84.322227,111.157364"
+              class="id_jyllands-posten id_cleantechwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -38.459980,22.426018 -78.821411,50.657688 -101.685783,46.614437"
+              class="id_jyllands-posten id_computerworld" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -85.886749,-15.921167 -139.867554,-116.350418 -124.384743,-167.820435"
+              class="id_jyllands-posten id_dagbladetinformation"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -18.681993,41.143879 -57.453232,127.119331 -99.035469,142.854065"
+              class="id_jyllands-posten id_dagens.dk" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -11.845310,29.237816 -22.502441,107.609200 -52.178612,130.180618"
+              class="id_jyllands-posten id_danwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -39.733517,35.206039 -101.175293,80.697441 -136.819687,75.380653"
+              class="id_jyllands-posten id_denkorteavis" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -72.369339,12.633902 -148.906647,-24.686628 -161.978897,-62.639240"
+              class="id_jyllands-posten id_detailwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -33.093857,29.603371 -76.172134,76.650269 -106.213860,77.973137"
+              class="id_jyllands-posten id_dknyt" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -62.096802,-13.148581 -84.551575,-73.734032 -71.841347,-101.414108"
+              class="id_jyllands-posten id_drnyheder" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -80.175491,17.523661 -175.756653,-24.171459 -193.718674,-69.930222"
+              class="id_jyllands-posten id_effektivtlandbrug"
+              stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -54.578762,5.308152 -93.441574,-16.315134 -99.188080,-36.477165"
+              class="id_jyllands-posten id_ejendomswatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -46.299011,39.329662 -123.774460,81.158264 -163.542480,69.275986"
+              class="id_jyllands-posten id_ekstrabladet" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -30.962626,36.994011 -81.930008,98.323708 -119.362373,101.777817"
+              class="id_jyllands-posten id_energiwatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -47.188202,-37.440395 -10.842345,-112.100662 26.159697,-124.872131"
+              class="id_jyllands-posten id_erhverv+" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -73.623817,-8.646898 -120.121635,-79.770355 -111.913094,-118.977448"
+              class="id_jyllands-posten id_erhvervsavisen" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -48.837734,-8.231056 -58.780190,-41.551613 -50.987488,-55.972618"
+              class="id_jyllands-posten id_finans" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -62.536301,-1.357416 -103.337051,-44.915356 -102.417992,-73.034927"
+              class="id_jyllands-posten id_finanswatch" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -83.686127,-0.853941 -156.966858,-75.381424 -156.551270,-124.650833"
+              class="id_jyllands-posten id_folketsavis" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -34.416729,-0.438355 C -73.087173,3.674284 -137.261795,-48.162422 -141.374435,-86.832863"
+              class="id_jyllands-posten id_footy" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -82.585930,-187.248016 C -48.361626,-196.521973 16.885746,-159.096436 26.159697,-124.872131"
+              class="id_melfarposten id_erhverv+" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 117.499062,84.743690 C 134.083328,61.034241 194.523880,50.346458 218.233322,66.930710"
+              class="id_modkraft id_tv2" stroke-opacity="1.0" stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 117.499062,84.743690 C 126.328758,83.491905 141.450974,94.858757 142.702759,103.688454"
+              class="id_modkraft id_version2" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 117.499062,84.743690 C 121.063560,72.056519 145.441071,58.372540 158.128235,61.937042"
+              class="id_modkraft id_zetland" stroke-opacity="1.0"
+              stroke="#009ae6"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.973526,57.206299 C 83.484879,87.642731 10.097240,105.564407 -20.339193,87.075752"
+              class="id_nordjyskeugeaviser id_børsen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.973526,57.206299 C 50.395073,35.953377 4.906776,-73.293678 26.159697,-124.872131"
+              class="id_nordjyskeugeaviser id_erhverv+" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 101.973526,57.206299 C 127.170372,35.899223 196.926254,41.733864 218.233322,66.930710"
+              class="id_nordjyskeugeaviser id_tv2" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 148.787201,-79.531296 C 159.072678,-96.765907 200.352829,-107.189590 217.587433,-96.904106"
+              class="id_nordvestnyt id_fyensstiftstidende" stroke-opacity="1.0"
+              stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 148.787201,-79.531296 C 150.604858,-108.775047 197.196991,-149.914185 226.440735,-148.096527"
+              class="id_nordvestnyt id_helsingørdagblad" stroke-opacity="1.0"
+              stroke="#ff0000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 54.832703,-202.499725 77.625305,-55.168171 36.112316,1.539883"
+              class="id_odderavis id_berlingske" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 60.649578,-174.102249 49.571274,24.550823 -20.339193,87.075752"
+              class="id_odderavis id_børsen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 27.559776,-225.791611 44.380806,-154.307266 26.159697,-124.872131"
+              class="id_odderavis id_erhverv+" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 1.124155,-196.998108 -64.898499,-121.976952 -111.913094,-118.977448"
+              class="id_odderavis id_erhvervsavisen" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 25.910240,-196.582260 -3.557045,-83.758209 -50.987488,-55.972618"
+              class="id_odderavis id_finans" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 12.211678,-189.708618 -48.113907,-87.121956 -102.417992,-73.034927"
+              class="id_odderavis id_finanswatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 30.512796,-247.875046 84.888519,-205.086349 88.750862,-172.698196"
+              class="id_odderavis id_senest.dk" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 19.950510,-246.666382 56.669800,-217.908081 59.323467,-196.082230"
+              class="id_odderavis id_shippingwatch" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.875351,-244.012711 C 12.030435,-258.719666 54.949570,-259.921478 69.656548,-246.015686"
+              class="id_odderavis id_soundvenue" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.234409,122.553383 C 26.306091,107.749519 42.619411,79.651237 57.423279,75.722923"
+              class="id_lokalavisenrudersdal id_billedbladet"
+              stroke-opacity="1.0" stroke="#7f4d73"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.234409,122.553383 C 50.409275,113.677750 93.985031,130.626602 102.860664,150.801468"
+              class="id_lokalavisenrudersdal id_bold.dk" stroke-opacity="1.0"
+              stroke="#7f4d73"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#009ae6" r="42.8" cx="159.3299"
+                class="id_metroxpress" cy="-203.05891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="126.82"
+                class="id_lokalavisenaabenraa" cy="388.29614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-406.50632"
+                class="id_aabenraaugeavis" cy="99.110634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="513.8358"
+                class="id_aabybroposten" cy="15.205847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-222.94598"
+                class="id_lokalavisenaabybro" cy="344.0425" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="132.76175"
+                class="id_lokalavisenaarhus" cy="425.28525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-452.11597"
+                class="id_århusonsdag" cy="-41.69516" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-310.61624"
+                class="id_aarsavis" cy="-350.68594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-193.71867"
+                class="id_effektivtlandbrug" cy="-69.93022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="279.12073"
+                class="id_lokalavisenalbertslund" cy="-483.09628"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="417.97293"
+                class="id_lokalavisenallerød" cy="-290.86832" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="43.917294"
+                class="id_amagerbladet" cy="422.73837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="394.91455"
+                class="id_randersamtsavis" cy="-333.8452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="447.8965"
+                class="id_ugeavisenansager-helle" cy="-204.28072"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="41.0" cx="-159.21469"
+                class="id_arbejderen" cy="1.1303523" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-436.17178"
+                class="id_altingetarktis" cy="82.52514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-387.79025"
+                class="id_avisendanmark" cy="231.62946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="24.8" cx="36.112316"
+                class="id_berlingske" cy="1.5398827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-167.06946"
+                class="id_ballerupbladet" cy="371.41635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="8.6" cx="218.23332"
+                class="id_tv2" cy="66.93071" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="469.26953"
+                class="id_brønshøj-husumavis" cy="129.4534" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="57.42328"
+                class="id_billedbladet" cy="75.72292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="341.23157"
+                class="id_billundugeavis" cy="283.4505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-377.53915"
+                class="id_billundonline" cy="-257.57562" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-313.11603"
+                class="id_birkerødavis" cy="241.12148" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="302.2759"
+                class="id_bjerringbroavis" cy="-421.11578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="102.860664"
+                class="id_bold.dk" cy="150.80147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="17.6" cx="-20.339193"
+                class="id_børsen" cy="87.07575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-254.6435"
+                class="id_bovbladet.dk" cy="360.60336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-430.32953"
+                class="id_brædstrupavis" cy="47.151115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-438.79373"
+                class="id_ugeavisenforbrammingogomegn" cy="20.396036"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-221.18344"
+                class="id_brandebladet" cy="367.5602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="474.28574"
+                class="id_bryggebladet" cy="45.12504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="21.2" cx="124.20056"
+                class="id_bt" cy="-4.2117147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-52.646606"
+                class="id_b.t." cy="-227.06277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="470.40265"
+                class="id_københavnliv" cy="181.86374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-101.68578"
+                class="id_computerworld" cy="46.614437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-431.50693"
+                class="id_copenhagenpost" cy="-56.544456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-84.32223"
+                class="id_cleantechwatch" cy="111.157364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="174.14574"
+                class="id_dagbladetholstebrostruer" cy="101.925865"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="480.51764"
+                class="id_dagbladetkøge-ringsted-roskilde" cy="-169.65742"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="174.69771"
+                class="id_frederiksborgamtsavis" cy="-76.96252" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-305.12915"
+                class="id_dagbladetringkøbing-skjern" cy="-394.90912"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-99.03547"
+                class="id_dagens.dk" cy="142.85406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="213.8598"
+                class="id_dalumhjalleseavis" cy="415.89407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-52.17861"
+                class="id_danwatch" cy="130.18062" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-136.81969"
+                class="id_denkorteavis" cy="75.38065" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-161.9789"
+                class="id_detailwatch" cy="-62.63924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-254.75787"
+                class="id_digeposten" cy="-387.576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-101.80064"
+                class="id_dinavisranders" cy="-507.82654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-250.78008"
+                class="id_herningfolkeblad" cy="328.40656" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-86.91518"
+                class="id_ditkjellerup" cy="416.75323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-414.46283"
+                class="id_ditry" cy="-42.588333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="442.01016"
+                class="id_ditsilkeborg" cy="-254.4419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-406.89496"
+                class="id_ditskive" cy="-234.06476" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-106.21386"
+                class="id_dknyt" cy="77.97314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-71.84135"
+                class="id_drnyheder" cy="-101.41411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="485.66632"
+                class="id_dragørnyt" cy="-265.22424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="521.7307"
+                class="id_adresseavisensyddjurs" cy="-99.74852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="12.2" cx="150.6305"
+                class="id_lokalavisenegedal" cy="-57.26896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="5.5633717"
+                class="id_egtvedposten" cy="432.0668" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-99.18808"
+                class="id_ejendomswatch" cy="-36.477165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-163.54248"
+                class="id_ekstrabladet" cy="69.275986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-223.72153"
+                class="id_elbobladet" cy="-450.41107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-119.36237"
+                class="id_energiwatch" cy="101.77782" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="26.159697"
+                class="id_erhverv+" cy="-124.87213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-111.91309"
+                class="id_erhvervsavisen" cy="-118.97745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-129.89833"
+                class="id_erhvervslivaarhus" cy="-481.3164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-131.37465"
+                class="id_erhvervslivesbjerg" cy="-439.65283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="224.03287"
+                class="id_erhvervslivodense" cy="-508.92624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-100.44772"
+                class="id_erhvervslivranders" cy="-468.70624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-403.17178"
+                class="id_erhvervslivtrekanten" cy="126.05884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="409.79535"
+                class="id_erhvervsnytherning" cy="-361.22256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-63.421837"
+                class="id_erhvervsnytsilkeborg" cy="-513.51843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-55.40384"
+                class="id_erhvervsnytskive" cy="-474.87177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="320.8504"
+                class="id_ugeavisenesbjerg" cy="366.89706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="167.8731"
+                class="id_lokalavisenesbjerg" cy="411.52194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="447.96332"
+                class="id_ugeavisenlolland" cy="120.670044" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-375.2338"
+                class="id_fynsamtsavis" cy="270.1331" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="175.36375"
+                class="id_fanøposten" cy="381.55722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="457.04868"
+                class="id_fanøugeblad" cy="-123.166916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-303.0112"
+                class="id_farsøavis" cy="275.74423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="315.18256"
+                class="id_lokalavisenfavrskov" cy="-466.70685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="121.87291"
+                class="id_favrskovliv" cy="-524.2225" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="464.32718"
+                class="id_haslevfaxeposten" cy="-252.86922" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-50.987488"
+                class="id_finans" cy="-55.97262" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-102.41799"
+                class="id_finanswatch" cy="-73.03493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-381.19843"
+                class="id_ditfjends" cy="159.24695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-85.96129"
+                class="id_fjerritslevugeavis" cy="-524.80334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-414.6229"
+                class="id_flensborgavis" cy="-124.417244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-61.55608"
+                class="id_fødevarewatch" cy="-137.82483" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-235.56377"
+                class="id_folkebladetglostrup-brøndby-vallensbæk"
+                cy="-428.73483" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="356.09024"
+                class="id_midthimmerlandsfolkeblad" cy="-423.56296"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="46.4" cx="89.682014"
+                class="id_folkebladetlemvig" cy="-82.73439" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="497.23862"
+                class="id_lolland-falstersfolketidende" cy="51.837585"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-156.55127"
+                class="id_folketsavis" cy="-124.65083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-141.37444"
+                class="id_footy" cy="-86.83286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="325.60803"
+                class="id_forumsøndagherning" cy="-431.3034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-402.98242"
+                class="id_forumsøndagsilkeborg" cy="-295.55933" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="3.0286536"
+                class="id_fredericiadagblad" cy="-500.65817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="12.2" cx="97.50215"
+                class="id_lokalavisenfredensborg" cy="97.5333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="235.62544"
+                class="id_lokalavisenfredericia" cy="361.96545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="348.95425"
+                class="id_fredericiaavisen" cy="319.21463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-224.41153"
+                class="id_frederiksbergbladet" cy="315.14175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="20.773695"
+                class="id_frederiksbergliv" cy="-534.259" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-141.36821"
+                class="id_lokalavisenfrederikssund" cy="417.86838"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="497.03284"
+                class="id_frederiksværkugeblad" cy="-151.48285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-386.4462"
+                class="id_lokalavisenfuresø" cy="194.48872" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="217.58743"
+                class="id_fyensstiftstidende" cy="-96.904106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-58.31811"
+                class="id_gaffa" cy="-168.24586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="411.9119"
+                class="id_galtenfolkeblad" cy="228.87135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="26.301006"
+                class="id_lokalavisengentofte" cy="444.75986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-349.7925"
+                class="id_giveavis" cy="-360.66193" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="480.14218"
+                class="id_gladsaxebladet" cy="-17.127129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-89.87855"
+                class="id_golfavisen" cy="-152.32423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-453.81143"
+                class="id_graastenavis" cy="41.86277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="15.810098"
+                class="id_lokalavisengrenaa" cy="411.3374" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-302.83887"
+                class="id_lokalavisengreve" cy="-420.53998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-200.52194"
+                class="id_lokalavisengribskov" cy="-444.71265" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-402.73645"
+                class="id_lokalavisenhaderslev" cy="-146.1138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-163.726"
+                class="id_ugeavisenhaderslev" cy="408.87817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="264.1489"
+                class="id_hadsundfolkeblad" cy="390.2726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-350.84766"
+                class="id_halsavis" cy="263.07507" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-216.1496"
+                class="id_lokalavisenhalsnæs" cy="-475.55984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="467.88263"
+                class="id_hedenstedavis" cy="96.09629" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-332.19266"
+                class="id_herlevbladet" cy="274.73898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="319.68866"
+                class="id_lokalavisenhelsingør" cy="327.37598" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="226.44073"
+                class="id_helsingørdagblad" cy="-148.09653" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="499.44336"
+                class="id_lokalavisenherlev" cy="-32.80607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="468.2585"
+                class="id_herningbladet" cy="-212.95857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-133.6807"
+                class="id_her&amp;nu" cy="-53.5475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="370.5629"
+                class="id_lokalavisenhillerød" cy="278.92975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="517.5315"
+                class="id_lokalavisenhinnerup" cy="-17.34281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-19.678148"
+                class="id_hirtshalsbindslevavis" cy="-489.15646"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="38.721657"
+                class="id_hjertingposten" cy="-516.4175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="346.20108"
+                class="id_hobroavis" cy="-345.7845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="17.6" cx="-73.42735"
+                class="id_lokalavisenhørsholm" cy="80.776825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="486.17572"
+                class="id_holstebroonsdag" cy="-57.632874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="280.40118"
+                class="id_ugeavisenholsted&amp;brørup" cy="-427.90256"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-37.778053"
+                class="id_lokalavisenhornsherred" cy="-504.04358"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="39.283863"
+                class="id_hornsherredlokalavis" cy="400.90573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="347.64673"
+                class="id_lokalavisenhorsens" cy="341.3004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="117.08933"
+                class="id_horsensposten" cy="-488.3166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="125.930305"
+                class="id_horsensfolkeblad" cy="60.512276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="1.0697896"
+                class="id_lokalavisenhvidovre" cy="-523.9144" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-125.49715"
+                class="id_hvidovreavis" cy="-506.36993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="136.26291"
+                class="id_politiken" cy="-111.90112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="428.86432"
+                class="id_ikast-brandenyt" cy="243.70619" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="23.0" cx="-124.38474"
+                class="id_dagbladetinformation" cy="-167.82043" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="417.00516"
+                class="id_lokalavisenishøj" cy="-334.82086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="226.17314"
+                class="id_itwatch" cy="-438.50293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-130.57544"
+                class="id_jellingugeavis" cy="374.25912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="10.4" cx="52.37846"
+                class="id_jydskevestkysten" cy="-220.82039" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="50.0" cx="-34.41673"
+                class="id_jyllands-posten" cy="-0.43835497" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="104.64107"
+                class="id_kalundborgfolkeblad" cy="436.3023" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="87.15369"
+                class="id_kendte.dk" cy="-200.31944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-186.5539"
+                class="id_kertemindeugeavis" cy="399.82217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="494.58942"
+                class="id_kjertemindeavis" cy="29.019775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="259.081"
+                class="id_køgeonsdag" cy="-470.81088" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="325.50693"
+                class="id_lokalavisenkøge" cy="303.78665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="198.40337"
+                class="id_koldingnetavis" cy="382.16284" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-396.89514"
+                class="id_lokalavisenkolding" cy="-187.7864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="276.84903"
+                class="id_koldingugeavis" cy="352.00354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="397.76086"
+                class="id_korsørposten" cy="273.07922" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="174.26048"
+                class="id_kristeligtdagblad" cy="-102.51204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="90.284706"
+                class="id_landbrugsavisen" cy="-225.53102" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="133.0172"
+                class="id_lastbilnyhederne.dk" cy="-151.70703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-435.9547"
+                class="id_lejrelokalavis" cy="-22.567047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="454.17084"
+                class="id_løkkenfolkeblad" cy="205.42819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-414.95193"
+                class="id_lokalavisenfornørrebroognord-vest" cy="-255.92935"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-366.2914"
+                class="id_lokalavisenlemvig" cy="225.73737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="497.6305"
+                class="id_lokalavisenvanløse" cy="95.07884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="183.86745"
+                class="id_lokalavisen.dk" cy="-133.84761" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="211.14594"
+                class="id_lokalavisenhobro" cy="-487.2361" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-281.69318"
+                class="id_lokalavisenassens" cy="-341.9028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="497.52295"
+                class="id_lokalavisenfrederikshavn" cy="-183.76999"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="286.47714"
+                class="id_lokalavisennordvest" cy="-452.41083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="332.66772"
+                class="id_lokalavisennyborg" cy="-392.72745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-358.68964"
+                class="id_lokalavisenvalby" cy="180.69026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-165.8956"
+                class="id_lokalavisenvesterbro" cy="-485.34525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-280.13657"
+                class="id_lokalavisenringsted" cy="-420.67822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-429.27786"
+                class="id_lokalavisenherning" cy="111.73987" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="481.39386"
+                class="id_lollands-posten" cy="10.364328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="500.24155"
+                class="id_lokalbladetlyngposten" cy="-2.9181647"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="189.67882"
+                class="id_lystrupliv" cy="-501.8774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-371.33612"
+                class="id_mariageravis" cy="-316.78757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="512.3439"
+                class="id_maribonet" cy="-50.965023" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-6.8160176"
+                class="id_mediawatch" cy="149.76997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="36.92246"
+                class="id_medwatch" cy="154.06232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="6.8" cx="-82.58593"
+                class="id_melfarposten" cy="-187.24802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-436.2613"
+                class="id_morsøfolkeblad" cy="-137.53227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="430.7063"
+                class="id_midtfynsposten" cy="-314.42276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-357.6839"
+                class="id_midtjyllandsavis" cy="-334.5183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="111.30332"
+                class="id_ugeavisenmidtsyd" cy="411.86133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-192.93138"
+                class="id_midtvendsysselsavis" cy="354.50912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-332.09015"
+                class="id_kgsenghavebladet" cy="303.6819" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-79.67945"
+                class="id_nørrebronord-vestbladet" cy="393.8753"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="374.61877"
+                class="id_østerbroavis" cy="256.80298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-269.78888"
+                class="id_valbybladet" cy="296.98428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-64.4038"
+                class="id_vanløsebladet" cy="412.4896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="444.00012"
+                class="id_vesterbrobladet" cy="184.4929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="197.5383"
+                class="id_mandagmorgen" cy="-38.278717" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="20.059055"
+                class="id_mobilitywatch" cy="-221.79393" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="10.4" cx="117.49906"
+                class="id_modkraft" cy="84.74369" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="432.6177"
+                class="id_nb-kommune" cy="217.80795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-344.8093"
+                class="id_nb-nyt" cy="236.52596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-379.41925"
+                class="id_nb-økonomi" cy="-292.84686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="17.256643"
+                class="id_nb-social" cy="-480.0564" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="143.61449"
+                class="id_news2day" cy="-519.0648" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="461.5905"
+                class="id_newsbreak" cy="-280.14774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-281.96738"
+                class="id_nibeavis" cy="-393.15076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="365.11154"
+                class="id_lokalavisennorddjurs" cy="302.0642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-435.56113"
+                class="id_nordfalstersavis" cy="-112.841934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-19.744684"
+                class="id_nordhavnavis" cy="-531.1607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="56.670845"
+                class="id_nordjyske" cy="444.87402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="10.4" cx="101.973526"
+                class="id_nordjyskeugeaviser" cy="57.2063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-41.28417"
+                class="id_nordschleswiger" cy="402.33035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="8.6" cx="148.7872"
+                class="id_nordvestnyt" cy="-79.531296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-424.19452"
+                class="id_nørrebroliv" cy="141.67302" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-81.5854"
+                class="id_denlilleavis" cy="-493.84628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-144.85992"
+                class="id_ugeavisennytirsdag" cy="394.71356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="473.01355"
+                class="id_ugeavisenrødding" cy="-148.69635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="469.23218"
+                class="id_nytomnordsjælland" cy="-189.35602" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-355.79517"
+                class="id_lokalavisenodder" cy="-289.6001" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="21.2" cx="-1.8753507"
+                class="id_odderavis" cy="-244.01271" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="468.09625"
+                class="id_lokalavisenodense" cy="159.78004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-354.5982"
+                class="id_øboen" cy="-229.92398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-15.696693"
+                class="id_østhimmerlandsfolkeblad" cy="440.4125"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-271.56934"
+                class="id_østbirkavis" cy="343.33603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="445.75958"
+                class="id_olfi" cy="156.16042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-55.561455"
+                class="id_ugebladetølgod" cy="433.32556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="287.3158"
+                class="id_oplandsavisen" cy="330.99496" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="393.9051"
+                class="id_ørestadavis" cy="245.63232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="90.37063"
+                class="id_østerbroliv" cy="402.6528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-259.8079"
+                class="id_policywatch" cy="-431.10248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-455.3685"
+                class="id_randersonsdag" cy="-3.7780163" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="343.3182"
+                class="id_realityportalen" cy="-445.4429" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="-363.505"
+                class="id_retailnews" cy="203.20073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-246.5203"
+                class="id_ugeavisenribe" cy="-452.85733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="453.53836"
+                class="id_risskovliv" cy="-309.85895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-389.83386"
+                class="id_rødovrelokalnyt" cy="-218.69925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-96.781166"
+                class="id_roldskovbladet" cy="437.32513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="70.728264"
+                class="id_lokalavisenroskilde" cy="-487.16275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="8.6" cx="30.23441"
+                class="id_lokalavisenrudersdal" cy="122.55338" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="396.16068"
+                class="id_mønrøsten" cy="-306.84778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-320.0436"
+                class="id_sæbyfolkeblad" cy="-373.2103" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-395.57697"
+                class="id_samsøposten" cy="-272.13257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="385.58096"
+                class="id_saxkjobingavis" cy="-411.53607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="88.75086"
+                class="id_senest.dk" cy="-172.6982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="260.42734"
+                class="id_seoghør" cy="-3.873093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="59.323467"
+                class="id_shippingwatch" cy="-196.08223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-289.00885"
+                class="id_skådehøjbergholme" cy="324.19473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-205.47745"
+                class="id_skælskøravis" cy="385.28763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-407.97073"
+                class="id_skærbækavis" cy="180.94963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-443.81857"
+                class="id_skagenonsdag" cy="-90.53312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="480.27173"
+                class="id_uge-bladetskanderborg" cy="76.89855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-418.28864"
+                class="id_skanderborgliv" cy="-198.85753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="199.34174"
+                class="id_skanderborgnettet" cy="-467.2813" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="144.61249"
+                class="id_skibhusavisen" cy="-489.97095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-307.89297"
+                class="id_skivefolkeblad" cy="303.72797" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-339.33694"
+                class="id_sjællandsnyheder" cy="-389.22156" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-243.21716"
+                class="id_lokalavisensønderborg" cy="379.95032" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="486.95096"
+                class="id_sønderborgugeavis" cy="145.73245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-44.538933"
+                class="id_lokalavisensolrød" cy="-526.56555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="103.91611"
+                class="id_søndagsavisen" cy="-145.031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="81.4652"
+                class="id_sorøavis" cy="431.6364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="69.65655"
+                class="id_soundvenue" cy="-246.01569" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="289.8224"
+                class="id_spøttrupugeavis" cy="377.92603" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="240.80923"
+                class="id_stevnsbladet" cy="398.9859" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="168.15015"
+                class="id_århusstiftstidende" cy="-489.7558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-104.696045"
+                class="id_susåavisen" cy="394.9712" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="190.90154"
+                class="id_syddjursliv" cy="407.68298" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-396.54428"
+                class="id_sydfalsterliv" cy="75.382256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="507.46375"
+                class="id_sydhavnenliv" cy="73.7982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-409.18887"
+                class="id_dagbladetsydkysten" cy="-6.707205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="517.48267"
+                class="id_sydsjællandstidende" cy="39.776855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-158.60533"
+                class="id_sønderborgnyt" cy="-453.96304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-213.6061"
+                class="id_thistedposten" cy="-408.90277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-413.1383"
+                class="id_thylandsavis" cy="29.988895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-419.54462"
+                class="id_bornholmstidende" cy="67.901535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="525.1195"
+                class="id_tørringfolkeblad" cy="-70.79433" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="258.47803"
+                class="id_tranbjerg-mårsletliv" cy="366.40903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-309.63754"
+                class="id_transportnyhederne" cy="333.0402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="222.33629"
+                class="id_trekantensfolkeblad" cy="386.53372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-33.38326"
+                class="id_tv-kalundborg" cy="424.83734" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-147.9634"
+                class="id_tv2øst" cy="-499.44064" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="401.5361"
+                class="id_ugeavisenodense" cy="-387.5471" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="357.62738"
+                class="id_ugeavisentønder" cy="-399.4809" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-118.299965"
+                class="id_udeoghjemme" cy="415.67914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="244.8165"
+                class="id_ugeavisenaabenraa" cy="-454.0527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-379.88187"
+                class="id_ugeavisenbramming" cy="116.985794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="422.90656"
+                class="id_ugeavisenguldborgsund" cy="268.3966" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="502.5564"
+                class="id_ugeavisenkolding" cy="-112.175186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-188.15366"
+                class="id_ugeavisennykøbing" cy="-489.55316" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="55.09115"
+                class="id_ugeavisenølgod" cy="-534.7465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="240.9178"
+                class="id_ugeavisenringkøbing" cy="-488.7035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="485.82693"
+                class="id_ugeavisensønderborg" cy="-129.8419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="304.7724"
+                class="id_ugeavisenstruer" cy="344.9685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="81.90116"
+                class="id_ugeavisenvamdrup" cy="-506.24243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="166.54907"
+                class="id_ugeavisenvarde" cy="-456.35495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-431.4321"
+                class="id_ugeavisentoftlund" cy="-180.72191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="100.15216"
+                class="id_lokalavisennordsjælland" cy="-518.9259"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="506.1441"
+                class="id_ugeavisenfaaborg" cy="-83.62558" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="145.30768"
+                class="id_ugeavisengrindsted" cy="404.8208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="384.53357"
+                class="id_ugeavisenkarup" cy="-372.47208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-421.35583"
+                class="id_ugeavisennordfyn" cy="-78.79825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-189.4603"
+                class="id_ugeavisensvendborg" cy="-464.247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="489.56552"
+                class="id_ugeavisenvejen" cy="119.13999" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-10.681376"
+                class="id_ugeavisenvejleposten" cy="412.75983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-393.95428"
+                class="id_ugebladetnæstved" cy="-94.7769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="167.75584"
+                class="id_ugepostenskjern" cy="-517.63635" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="155.81471"
+                class="id_ugepostenhelsinge" cy="430.2918" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="494.12564"
+                class="id_ugeavisenmøldrup-aalestrup" cy="-207.24945"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="69.20546"
+                class="id_værløsenyt" cy="412.17432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="437.69894"
+                class="id_valbyliv" cy="-347.0395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="438.93457"
+                class="id_vanløseliv" cy="-279.74295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="411.55554"
+                class="id_lokalavisenvarde" cy="171.76137" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-405.5561"
+                class="id_lokalavisenvejle" cy="153.41364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-428.6059"
+                class="id_vejleamtsfolkeblad" cy="-221.2713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="46.82659"
+                class="id_vendelboposten" cy="-495.49036" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="142.70276"
+                class="id_version2" cy="103.68845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="103.53528"
+                class="id_ugeavisenvestegnen" cy="-470.8915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="275.51114"
+                class="id_vesterbroliv" cy="-396.2094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-452.35486"
+                class="id_vesterhavsposten" cy="-69.322815" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-430.5308"
+                class="id_vesthimmerlandsavis" cy="-0.305934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-331.93472"
+                class="id_vesthimmerlandsfolkeblad" cy="-309.2469"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="363.812"
+                class="id_viborgfolkeblad" cy="-364.8328" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="484.39383"
+                class="id_viborgnyt" cy="-94.58688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="479.06064"
+                class="id_viby-stavtrupliv" cy="-233.71182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="79.32008"
+                class="id_vice.com" cy="-530.39606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-423.2909"
+                class="id_vinderupavis" cy="-158.3893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="398.10022"
+                class="id_vodskovavis" cy="305.84012" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-291.47894"
+                class="id_voresavisrebild" cy="223.56738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="512.9483"
+                class="id_voresjammerbugt" cy="-133.99944" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="412.50067"
+                class="id_weekendavisen" cy="204.05415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#009ae6" r="5.0" cx="158.12823"
+                class="id_zetland" cy="61.937042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff0000" r="5.0" cx="-334.04205"
+                class="id_østvendsysselfolkeblad" cy="-341.5215"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+</svg>
